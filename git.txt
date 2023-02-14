@@ -3,4 +3,7 @@ git status
 git add . s
 git commit-m hh
 
-dddsssss
+ git push -u origin main
+
+ git push origin main // sobreescrever 
+
